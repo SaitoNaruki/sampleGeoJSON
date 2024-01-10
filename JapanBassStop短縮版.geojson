@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "JapanBassStop",
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.937167038288777, 45.522239250308765 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.941875447919472, 45.518611831757575 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.921812338520368, 45.517258708862265 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.946867679469108, 45.515840152305323 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.950816251725769, 45.515550892627438 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.955258169670401, 45.514431201379324 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.898497274374677, 45.51073471114357 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.892111031647431, 45.50152584927789 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 141.883032893650721, 45.49576233776375 ] } }
+]
+}
